@@ -28,6 +28,6 @@ Supporting Task `Scripts` are included, allowing the execution of the actual Mav
 ## Example Pipelines
 The generic tasks provided by this pipeline resource can be used as building blocks for (**complex**) pipelines.
 
-Several examples have been created and used to test different pipeline scenarios. See [mule-concourse-pipeline-example](https://github.com/mulesoft-consulting/mule-concourse-pipeline-example)). 
+Several examples have been created and used to test different pipeline scenarios. See [mule-concourse-pipeline-example](https://github.com/mulesoft-catalyst/mule-concourse-pipeline-example)). 
 
 
